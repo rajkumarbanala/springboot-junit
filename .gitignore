@@ -27,7 +27,8 @@ HELP.md
 
 ### Java ###
 target
-!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+
 
 ### STS ###
 .apt_generated
@@ -51,3 +52,4 @@ target
 /nbdist/
 /.nb-gradle/
 /build/
+.
