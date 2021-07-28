@@ -27,8 +27,12 @@ HELP.md
 
 ### Java ###
 target
+<<<<<<< HEAD
 .mvn/
 
+=======
+!.mvn/wrapper/maven-wrapper.jar
+>>>>>>> 921f5a3... U
 
 ### STS ###
 .apt_generated
