@@ -21,20 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 ### Others ###
 HELP.md
 
 ### Java ###
 target
-<<<<<<< HEAD
 .mvn/
 
-=======
-!.mvn/wrapper/maven-wrapper.jar
->>>>>>> 921f5a3... U
 
 ### STS ###
 .apt_generated
@@ -58,8 +52,4 @@ target
 /nbdist/
 /.nb-gradle/
 /build/
-=======
-.mvn/
->>>>>>> 5740126... Initial Commit
-=======
->>>>>>> 3283e4e... Initial commit
+.
